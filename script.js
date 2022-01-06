@@ -6,6 +6,9 @@ function klik() {
 }
 
 function ka() {
-  document.body.style.backgroundImage =
-    "url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASolid_black.svg&psig=AOvVaw1f1kIZMdRDkQHn-52VgAXy&ust=1641589185566000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi53baCnvUCFQAAAAAdAAAAABAD')";
+  let x = document.getElementById("kar");
+  x.style.border = "2px dashed"
+  x.style.fontSize = "40px"
+  x.style.color = "blue"
+  x.style.fontFamily = "monospace";
 }
