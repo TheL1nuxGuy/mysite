@@ -1,9 +1,10 @@
 table {
   border: 1px solid blue;
   color: red;
-  font-family:monospace;
+  font-family: monospace;
   font-: 10px;
 }
+
 td:hover {
   font-size: 12px;
 }
