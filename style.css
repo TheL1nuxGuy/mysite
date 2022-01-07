@@ -2,7 +2,7 @@ table {
   border: 1px solid blue;
   color: red;
   font-family: monospace;
-  font-: 10px;
+  font-size: 10px;
 }
 
 td:hover {
